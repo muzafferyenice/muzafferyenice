@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muzaffer Yenice</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack  Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzafferyenice&label=Profile%20views&color=0e75b6&style=flat" alt="muzafferyenice" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzafferyenice" alt="muzafferyenice" /></a> </p>
 
-- 🌱 I’m currently learning **java sdlc lambda MySql**
+
 
 - 📫 How to reach me **muzafferyenicet@gmail.com**
 
